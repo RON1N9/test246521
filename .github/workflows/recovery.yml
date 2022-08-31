@@ -1,6 +1,6 @@
 name: Building Recovery
 
-on:
+on: push
 
 #  release:
 #    types: [published]
